@@ -15,7 +15,7 @@ export default function Header() {
           <nav>
             <ul className="nav-links">
               <li>
-                <Link href={"/home"}>
+                <Link href={"/"}>
                   <button>Home</button>
                 </Link>
               </li>
